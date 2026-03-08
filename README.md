@@ -15,16 +15,16 @@ The dashboard provides insights into revenue trends, customer demographics, sale
 ## Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Preview](images/Dashboard_Preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ### General View
-![General View](images/General_View.png)
+![General View](General_View.png)
 
 ### Sales View
-![Sales View](images/Sales_View.png)
+![Sales View](Sales_View.png)
 
 ### Age Group View
-![Age Group View](images/Age_Group_View.png)
+![Age Group View](Age_Group_View.png)
 
 ---
 
