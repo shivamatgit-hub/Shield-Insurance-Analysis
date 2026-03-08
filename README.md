@@ -8,8 +8,24 @@ The dashboard provides insights into revenue trends, customer demographics, sale
 
 ## Live Dashboard
 
-🔗 **View Interactive Dashboard:**  
-https://app.powerbi.com/view?r=eyJrIjoiZjVkZWYzMGYtMzE1ZC00MTAwLTk2MmUtYThlOTJjOWRmNjU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🔗 [Open Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjVkZWYzMGYtMzE1ZC00MTAwLTk2MmUtYThlOTJjOWRmNjU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+---
+
+## Dashboard Preview
+
+### Dashboard Overview
+![Dashboard Preview](images/Dashboard_Preview.png)
+
+### General View
+![General View](images/General_View.png)
+
+### Sales View
+![Sales View](images/Sales_View.png)
+
+### Age Group View
+![Age Group View](images/Age_Group_View.png)
+
 ---
 
 ## Business Objectives
@@ -59,10 +75,4 @@ These insights help stakeholders monitor policy performance and identify opportu
 - Enabled stakeholders to monitor insurance revenue trends  
 - Identified high-risk customer segments  
 - Highlighted top-performing sales channels  
-- Improved reporting efficiency through automated dashboards  
-
----
-
-## Dashboard Preview
-
-(Add Power BI dashboard screenshots here)
+- Improved reporting efficiency through automated dashboards
